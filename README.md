@@ -7,7 +7,7 @@ Empty's API to handle users and authentication
  - Returns all registered users
 
 
-#### GET ´`$url/users/:hwid``
+#### GET ``$url/users/:hwid``
  - Returns user's info if HWID is registered
 
 
