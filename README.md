@@ -1,5 +1,5 @@
 # Empty API
-Empty's API to handle users and authentication
+Empty's API to handle user authentication
 
 ## Usage
 
